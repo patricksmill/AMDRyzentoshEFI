@@ -23,7 +23,7 @@
 
 [Lucy 2.5GB Ethernet](https://www.insanelymac.com/forum/files/file/1004-lucyrtl8125ethernet/)
 
-[BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM/releases)
+[BlueToolFixup](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/issues/437)
 
 [Restrict Events](https://github.com/acidanthera/RestrictEvents)
 
